@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+<!-- 
+----
+[<img src="https://github-profile-trophy.vercel.app/?username=harishrsekar&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://github-readme-stats.vercel.app/api?username=harishrsekar&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harishrsekar&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Harish's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishrsekar&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 <!--
 **harishrsekar/harishrsekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
