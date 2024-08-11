@@ -1,7 +1,7 @@
-## Hi there, I am Harish 👋
----
-### I am an Undergraduate Electronics and Communication Engineering Student with an interest in Mobile Application Development and Machine Learning. 
----
+### Hi there, I am Harish 👋
+
+I am an Undergraduate Electronics and Communication Engineering Student with an interest in Mobile Application Development and Machine Learning. 
+
 ## Tools
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
