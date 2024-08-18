@@ -26,5 +26,6 @@ I am an Undergraduate Electronics and Communication Engineering Student with an 
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harishrsekar&&show_icons=true&theme=dark" height="160em" /> 
 
 </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishrsekar&theme=gotham&layout=compact" height="160em" />
-
+<div style="text-align: center;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishrsekar&theme=gotham&layout=compact" height="160em" />
+</div>
