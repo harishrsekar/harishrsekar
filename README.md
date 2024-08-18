@@ -19,6 +19,11 @@ I am an Undergraduate Electronics and Communication Engineering Student with an 
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
 
-![streak](https://streak-stats.demolab.com?user=harishrsekar&theme=gotham) 
-![stats](https://github-readme-stats.vercel.app/api?username=harishrsekar&show_icons=true&theme=gotham)\
+<div> 
+  <div> 
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harishrsekar&theme=dark&hide_border=false" height="160em" />
+    </div>
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harishrsekar&&show_icons=true&theme=dark" height="160em" /> 
+
+</div>
 ![topLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishrsekar&theme=gotham&layout=compact)
