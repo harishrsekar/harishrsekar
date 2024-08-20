@@ -19,13 +19,7 @@ I am an Undergraduate Electronics and Communication Engineering Student with an 
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
 
-<div> 
-  <div> 
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harishrsekar&theme=dark&hide_border=false" height="160em" />
-    </div>
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harishrsekar&&show_icons=true&theme=dark" height="160em" /> 
 
-</div>
-<div style="text-align: center; margin-top: 20px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishrsekar&theme=gotham&layout=compact" height="160em" />
-</div>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=harishrsekar&theme=prussian&border_radius=5" alt="Github Stats" />  
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harishrsekar&&show_icons=true&theme=dark" alt="Github Score" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishrsekar&theme=prussian&layout=compact&langs_count=6" alt="Most Used Languages"/>  
