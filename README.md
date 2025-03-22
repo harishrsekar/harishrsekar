@@ -1,6 +1,5 @@
 ### Hi there, I am Harish 👋
 
-I am an Undergraduate Electronics and Communication Engineering Student with an interest in Mobile Application Development and Machine Learning. 
 
 ## Tools
 <p>
