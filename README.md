@@ -12,7 +12,6 @@
   <img alt="C" src="https://img.shields.io/badge/C-0011FF.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-0059FF.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-  <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
   <img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
   <img alt="CUDA" src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=CUDA&logoColor=black">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
